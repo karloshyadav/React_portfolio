@@ -1,5 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
+import Tilt from 'react-parallax-tilt';  // Updated import
 
 import App from "./App";
 import "./index.css";
